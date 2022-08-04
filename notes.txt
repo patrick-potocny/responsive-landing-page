@@ -1,0 +1,7 @@
+- container margin set with vw
+- feature sections have same styiling of h2 and p and will be same responsive grid
+- feature 1 form set to inline in desktop view
+- same cta button styling 
+- card in feature 2 
+- footer: logo, 4col 1row grid
+    - center icons in div
